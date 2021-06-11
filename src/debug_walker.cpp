@@ -16,7 +16,7 @@ const float kFrictAccVert_WallDown = 450;
 
 // jump
 const float kVelJump = -150;
-const float kJumpTime = 0.35f;
+const float kJumpTime = 0.34f;
 
 // Sprite
 const vec center = vec(8, 16);
